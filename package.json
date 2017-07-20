@@ -1,0 +1,19 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Probando webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thumpingsole/webpack.git"
+  },
+  "author": "Thump",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thumpingsole/webpack/issues"
+  },
+  "homepage": "https://github.com/Thumpingsole/webpack#readme"
+}
